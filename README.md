@@ -1,4 +1,4 @@
-# Sort Files by Type into Directories
+# Sort Files by Type Into Directories
 
 Useful when you do file carving using Recuva.
 ## Run
